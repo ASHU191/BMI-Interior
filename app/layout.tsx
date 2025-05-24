@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "BMI Interior - Premium Interior Design Solutions",
   description: "Professional interior design services for residential and commercial spaces.",
-    generator: 'v0.dev'
+    generator: 'Muhammad ARsalan'
 }
 
 export default function RootLayout({
