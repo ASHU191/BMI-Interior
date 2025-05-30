@@ -5,7 +5,7 @@ A modern and responsive interior design company website built using **Next.js**,
 > 🔗 Live Site: [bmiinterior.com](https://www.bmiinterior.com)  
 
 ## 🛠️ Tech Stack
-
+   
 - **Frontend Framework:** Next.js 13+
 - **Languages:** JavaScript & TypeScript (mixed)
 - **Styling:** Tailwind CSS
