@@ -1,5 +1,5 @@
 # BMI Interior     
-
+ 
 A modern and responsive interior design company website built using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Firebase**. This project showcases BMI Interior's services, portfolio, team, testimonials, and more with a clean UI and fast performance.
 
 > 🔗 Live Site: [bmiinterior.com](https://www.bmiinterior.com)  
